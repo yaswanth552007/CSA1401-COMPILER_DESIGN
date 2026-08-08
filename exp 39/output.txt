@@ -1,0 +1,2 @@
+This is a compiler programming lab.
+Compiler programming is easy.
